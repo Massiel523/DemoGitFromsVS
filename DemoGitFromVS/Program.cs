@@ -10,6 +10,10 @@ namespace DemoGitFromVS
     {
         static void Main(string[] args)
         {
+            var Saudo = new Saludo();
+            Console.Write(Saludo.Mensaje);
+
+            Console.Read();
         }
     }
 }

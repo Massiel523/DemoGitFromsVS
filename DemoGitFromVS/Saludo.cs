@@ -12,7 +12,7 @@ namespace DemoGitFromVS
 
         public Saludo()
         {
-            Mensaje = "Hola desde visual stdio";
+            Mensaje = "Hola desde visual studio";
         }
     }
 }
